@@ -5,6 +5,7 @@
 (learn more about face-api.js [here](https://github.com/justadudewhohacks/face-api.js/))
 
 (using React hooks)
+
 **TODO: There's a current issue with Heroku during deployment where a user will face logging errors when accessing the website for the first time. The website loads up normally on the next tries.**
 
 ## Overview
